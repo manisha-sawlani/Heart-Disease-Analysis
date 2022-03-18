@@ -16,7 +16,7 @@
 
 # Conclusion
 
-    Data Visualization and Data Analysis of the target variable, age features, and whatnot along with its univariate analysis and bivariate analysis.and 
+    Data Visualization and Data Analysis of the target variable, age features, with its univariate analysis and bivariate analysis.and 
     Feature engineering by plotting continuous and categorical variables.
     
 
